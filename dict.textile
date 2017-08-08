@@ -203,6 +203,8 @@ h2. C
 | corruption                           | 程序崩溃           |                  |                  |
 | crash                                | 崩溃               |                  |                  |
 | create                               | 创建               |                  |                  |
+| Cross Site Script (XSS)              | 跨站点脚本（漏洞） |                  |                  |
+| Cascading Style Sheets （CSS）       | 层叠样式表         |                  |                  |
 | crystallize                          | 固化               |                  |                  |
 | curly                                | 括弧状的           |                  |                  |
 | curried                              | 柯里的             |                  |                  |
@@ -238,6 +240,7 @@ h2. D
 | deconstruction                       | 解构               |                  |                  |
 | deduction                            | 推导               | 推断             |                  |
 | default                              | 缺省               | 默认             |                  |
+| defect                               | 缺陷               |                  |                  |
 | defer                                | 推迟               |                  |                  |
 | deficiency                           | 缺陷               | 不足             |                  |
 | define                               | 定义               |                  |                  |
@@ -309,6 +312,7 @@ h2. E
 | exit                                 | 退出               |                  |                  |
 | expendable                           | 可扩展的           |                  |                  |
 | explicit                             | 显式               |                  |                  |
+| exploit                              | 漏洞利用           |                  |                  |
 | exploratory programming              | 探索式编程         |                  |                  |
 | export                               | 导出               | 引出             |                  |
 | expression                           | 表达式             |                  |                  |
@@ -568,6 +572,7 @@ h2. M
 | minimal network                      | 最小网络           |                  |                  |
 | mirror                               | 镜射               |                  |                  |
 | mismatch type                        | 类型不匹配         |                  |                  |
+| mitigate                             | （漏洞）缓解       |                  |                  |
 | model                                | 模型               |                  |                  |
 | modem                                | 调制解调器         |                  |                  |
 | modifier                             | 修饰符             |                  |                  |
@@ -988,11 +993,13 @@ h2. W
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | warning message                      | 警告信息           |                  |                  |
 | web server                           | 网络服务器         |                  |                  |
+| weakness                             | （软件）缺陷       |                  |                  |
 | weight                               | 权值               | 权重             |                  |
 | well type                            | 类型正确           |                  |                  |
 | wildcard                             | 通配符             |                  |                  |
 | window                               | 窗口               |                  |                  |
 | word                                 | 单词               | 字               |                  |
+| workaround                           | 变通方案           | 临时修补措施     |                  |
 | wrapper                              | 包装器             | 包装             |                  |
 | What You See Is What You Get, WYSIWYG  | 所见即所得       |                  |                  |
 | What You See Is What You Want, WYSIWYW | 所见即所想       |                  |                  |
@@ -1019,3 +1026,7 @@ h2. 专业名词
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | The Paradox of Choice                | 选择谬论           |                  |                  |
+| SQL Injection                        | SQL注入            |                  |                  |
+
+
+
