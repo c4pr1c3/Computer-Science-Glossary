@@ -31,6 +31,7 @@ h2. A
 | ad hoc                               | 专设               |                  |                  |
 | adapter                              | 适配器             |                  |                  |
 | address                              | 地址               |                  |                  |
+| adversary | 对抗（者） |                  |                  |
 | algebraic data type                  | 代数数据类型       |                  |                  |
 | algorithm                            | 算法               |                  |                  |
 | alias                                | 别名               |                  |                  |
@@ -53,6 +54,7 @@ h2. A
 | artificial intelligence, AI          | 人工智能           |                  |                  |
 | assemble                             | 组合               |                  |                  |
 | assembly                             | 汇编               |                  |                  |
+| asset | 资产 |                  |                  |
 | assignment                           | 赋值               |                  |                  |
 | assignment operator                  | 赋值操作符         |                  |                  |
 | associated                           | 关联的             |                  |                  |
@@ -99,6 +101,7 @@ h2. B
 | bookkeeping                          | 簿记               |                  |                  |
 | boolean                              | 布尔               |                  |                  |
 | border                               | 边框               |                  |                  |
+| botnet                               | 僵尸网络           |                  |                  |
 | bottom-up design                     | 自底向上的设计     |                  |                  |
 | bottom-up programming                | 自底向上编程       |                  |                  |
 | bound                                | 边界               |                  |                  |
@@ -107,6 +110,7 @@ h2. B
 | brace                                | 花括弧             | 花括号           |                  |
 | bracket                              | 方括弧             | 方括号           |                  |
 | branch                               | 分支               | 跳转             |                  |
+| breach                               | （网络安全）侵害   |                  |                  |
 | breadth-first                        | 广度优先           |                  |                  |
 | breadth-first search, BFS            | 广度优先搜索       |                  |                  |
 | breakpoint                           | 断点               |                  |                  |
@@ -172,6 +176,7 @@ h2. C
 | composition                          | 组合               | 组合函数         |                  |
 | compound value                       | 复合数据           | 复合值           |                  |
 | compression                          | 压缩               |                  |                  |
+| compromise                           | （网络安全）攻陷   |                  |                  |
 | computation                          | 计算               |                  |                  |
 | computer                             | 计算机             |                  |                  |
 | concatenation                        | 串接               |                  |                  |
@@ -204,6 +209,7 @@ h2. C
 | crash                                | 崩溃               |                  |                  |
 | create                               | 创建               |                  |                  |
 | Cross Site Script (XSS)              | 跨站点脚本（漏洞） |                  |                  |
+| crowdsourcing                        | 众包               |                  |                  |
 | Cascading Style Sheets （CSS）       | 层叠样式表         |                  |                  |
 | crystallize                          | 固化               |                  |                  |
 | curly                                | 括弧状的           |                  |                  |
@@ -254,6 +260,7 @@ h2. D
 | depth-first search, BFS              | 深度优先搜索       |                  |                  |
 | derived                              | 派生               |                  |                  |
 | derived class                        | 派生类             |                  |                  |
+| deserialize                          | 反序列化           |                  |                  |
 | design pattern                       | 设计模式           |                  |                  |
 | designator                           | 指示符             |                  |                  |
 | destructive                          | 破坏性的           |                  |                  |
@@ -269,8 +276,10 @@ h2. D
 | distributed computing                | 分布式计算         |                  |                  |
 | DLL hell                             | DLL 地狱           |                  |                  |
 | document                             | 文档               |                  |                  |
+| downloader                           | （恶意软件）下载器 |                  |                  |
 | dotted list                          | 点状列表           |                  |                  |
 | dotted-pair notation                 | 带点尾部表示法     | 带点尾部记法     |                  |
+| dropper                              | （恶意软件）释放器 |                  |                  |
 | duplicate                            | 复本               |                  |                  |
 | dynamic binding                      | 动态绑定           |                  |                  |
 | dynamic extent                       | 动态范围           |                  |                  |
@@ -288,7 +297,7 @@ h2. E
 | elaborate                            |                    |                  |                  |
 | elucidating                          |                    |                  |                  |
 | embedded language                    | 嵌入式语言         |                  |                  |
-| emulate                              | 仿真               |                  |                  |
+| emulate                              | 仿真               | 模拟             |                  |
 | encapsulation                        | 封装               |                  |                  |
 | enum                                 | 枚举               |                  |                  |
 | enumeration type                     | 枚举类型           |                  |                  |
@@ -411,6 +420,7 @@ h2. H
 | high-order                           | 高阶               |                  |                  |
 | higher-order function                | 高阶函数           |                  |                  |
 | higher-order procedure               | 高阶过程           |                  |                  |
+| homograph                            | 同形异义字         |                  |                  |
 | hyperlink                            | 超链接             |                  |                  |
 | HyperText Markup Language, HTML      | 超文本标记语言     |                  |                  |
 | HyperText Transfer Protocol, HTTP    | 超文本传输协议     |                  |                  |
@@ -547,6 +557,8 @@ h2. M
 | mailing list                         | 邮件列表           |                  |                  |
 | mainframes                           | 大型机             |                  |                  |
 | maintain                             | 维护               |                  |                  |
+| malvertising                         | 恶意广告           |                  |                  |
+| malware                              | 恶意软件           |                  |                  |
 | manifest typing                      | 显式类型           |                  |                  |
 | manipulator                          | 操纵器             |                  |                  |
 | mapping                              | 映射               |                  |                  |
@@ -613,6 +625,7 @@ h2. N
 h2. O
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
+| obfuscate                            | 混淆               |                  |                  |
 | object                               | 对象               |                  |                  |
 | object code                          | 目标代码           |                  |                  |
 | object-oriented                      | 面向对象           |                  |                  |
@@ -630,6 +643,7 @@ h2. O
 | option                               | 选项               |                  |                  |
 | optional                             | 可选的             | 选择性的         |                  |
 | optional argument                    | 选择性参数         |                  |                  |
+| orchestration                        | 编排               |                  |                  |
 | ordinary                             | 常规的             |                  |                  |
 | orthogonality                        | 正交性             |                  |                  |
 | overflow                             | 溢出               |                  |                  |
@@ -666,10 +680,13 @@ h2. P
 | path                                 | 路径               |                  |                  |
 | pattern                              | 模式               |                  |                  |
 | pattern match                        | 模式匹配           |                  |                  |
+| pentest                              | 渗透测试           |                  |                  |
 | perform                              | 执行               |                  |                  |
 | performance                          | 性能               |                  |                  |
 | performance-critical                 |                    |                  |                  |
 | persistence                          | 持久性             |                  |                  |
+| pharming                             | 域欺骗             |                  |                  |
+| phishing                             | （网络）钓鱼       |                  |                  |
 | phrenology                           | 相面               |                  |                  |
 | physical                             | 物理的             |                  |                  |
 | pipe                                 | 管道               |                  |                  |
@@ -677,11 +694,12 @@ h2. P
 | placeholder                          | 占位符             |                  |                  |
 | planning                             | 计画               |                  |                  |
 | platform                             | 平台               |                  |                  |
+| playbook                             | 剧本               |                  |                  |
 | pointer                              | 指针               |                  |                  |
 | pointer arithmetic                   | 指针运算           |                  |                  |
 | poll                                 | 轮询               |                  |                  |
 | polymorphic                          | 多态               |                  |                  |
-| polymorphism                         | 多态               |                  |                  |
+| polymorphism                         | 多态               | (恶意代码）变形  |                  |
 | polynomial                           | 多项式的           |                  |                  |
 | pool                                 | 池                 |                  |                  |
 | port                                 | 端口               |                  |                  |
@@ -728,6 +746,7 @@ h2. P
 | pseudo instruction                   | 伪指令             |                  |                  |
 | purely functional language           | 纯函数式语言       |                  |                  |
 | pushdown stack                       | 下推栈             |                  |                  |
+| pwn                                  | （网络安全）攻破，攻陷   |                  |                  |
 
 
 h2. Q
@@ -800,6 +819,7 @@ h2. S
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | S-expression                         | S-表达式           |                  |                  |
 | save                                 | 储存               |                  |                  |
+| sanitize                             | （网络安全）净化   |                  |                  |
 | Secure Sockets Layer, SSL            | 安全套接字层       |                  |                  |
 | scaffold                             | 脚手架             | 鹰架             |                  |
 | scalar type                          | 标量               |                  |                  |
@@ -830,7 +850,7 @@ h2. S
 | side effect                          | 副作用             |                  |                  |
 | signature                            | 签名               |                  |                  |
 | simple vector                        | 简单向量           |                  |                  |
-| simulate                             | 模拟               |                  |                  |
+| simulate                             | 模拟               | 仿真             |                  |
 | Single Point of Truth, SPOT          | 真理的单点性       |                  |                  |
 | single-segment                       | 单段的             |                  |                  |
 | sketch                               | 草图               | 初步框架         |                  |
@@ -986,12 +1006,14 @@ h2. V
 | virtual memory                       | 虚内存             |                  |                  |
 | volatile                             | 挥发               |                  |                  |
 | vowel                                | 元音               |                  |                  |
+| vulnerability | 漏洞 | 脆弱性                 |                  |
 
 
 h2. W
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | warning message                      | 警告信息           |                  |                  |
+| water holing                         | 水坑攻击           |                  |                  |
 | web server                           | 网络服务器         |                  |                  |
 | weakness                             | （软件）缺陷       |                  |                  |
 | weight                               | 权值               | 权重             |                  |
@@ -1002,7 +1024,7 @@ h2. W
 | workaround                           | 变通方案           | 临时修补措施     |                  |
 | wrapper                              | 包装器             | 包装             |                  |
 | What You See Is What You Get, WYSIWYG  | 所见即所得       |                  |                  |
-| What You See Is What You Want, WYSIWYW | 所见即所想       |                  |                  |
+| What You See Is What You Mean, WYSIWYM | 所见即所想       |                  |                  |
 
 
 h2. X
@@ -1020,13 +1042,58 @@ h2. Z
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | Z-expression                         | Z-表达式           |                  |                  |
 | zero-indexed                         | 零索引的           |                  |                  |
+| zero-day                             | 零日漏洞           |                  |                  |
 
 
 h2. 专业名词
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | The Paradox of Choice                | 选择谬论           |                  |                  |
-| SQL Injection                        | SQL注入            |                  |                  |
+| SQL Injection                                               | SQL注入                  |                    |  |
+| Cross Site Request Forgery, CSRF                            | 跨站点请求伪造           |                    |  |
+| Server Side Request Forgery, SSRF                           | 服务端请求伪造           |                    |  |
+| Vulnerability Detection                                     | 漏洞挖掘                 |                    |  |
+| Vulnerability Reproducibility                               | 漏洞可复现性             |                    |  |
+| Vulnerability Exploitability                                | 漏洞可利用性             |                    |  |
+| Vulnerability Discoverability                               | 漏洞可发现性             |                    |  |
+| Cyber Range                                                 | 网络靶场                 |                    |  |
+| Kill Chain                                                  | 杀伤链                   |                    |  |
+| Common Vulnerability and Exposure, CVE                      | 通用漏洞及曝光           |                    |  |
+| Common Vulnerability Scoring System, CVSS                   | 通用漏洞评分系统         |                    |  |
+| Common Weakness Enumeration, CWE                            | 通用缺陷枚举             |                    |  |
+| Common Weakness Scoring System, CWSS                        | 通用缺陷评分系统         |                    |  |
+| Common Platform Enumeration, CPE                            | 通用平台枚举             |                    |  |
+| Open Vulnerability and Assesment Language, OVAL             | 开放漏洞评估语言         |                    |  |
+| Common Attack Pattern Enumeration and Classification, CAPEC | 常见攻击模式枚举和分类   |                    |  |
+| Security Information and Event Management, SIEM             | 安全信息与事件管理       |                    |  |
+| Threat Hunting                                              | 威胁狩猎                 | 威胁猎杀           |  |
+| User Behavior Analytics, UBA                                | 用户行为分析             |                    |  |
+| User and Entity Behavior Analytics, UEBA                    | 用户和实体行为分析       |                    |  |
+| Security Operations Center, SOC                             | 安全运营中心             |                    |  |
+| Security Operations, Analytics and Reporting, SOAR          | 安全运维分析与报告       | 安全运营分析与报告 |  |
+| Security Orchestration, and Automated Response, SOAR        | 安全编排自动化与响应     |                    |  |
+| Security Orchestration and Automation Platform, SOAP        | 安全编排自动化平台       |                    |  |
+| Security Incident Response Platform, SIRP                   | 安全事件响应平台         |                    |  |
+| Threat Intelligence Platform, TIP                           | 威胁情报平台             |                    |  |
+| Endpoint Detection and Response, EDR                        | 终端检测与响应           |                    |  |
+| Insider Threat                                              | 内部威胁                 |                    |  |
+| Bring Your Own Device, BYOD                                 | 自带设备                 |                    |  |
+| spear phishing                                              | 鱼叉式钓鱼               |                    |  |
+| whale phishing                                              | 鲸钓                     |                    |  |
+| smishing                                                    | 钓鱼短信                 | 短信欺诈           |  |
+| voice phishing, vishing                                     | 钓鱼电话                 |                    |  |
+| data leakage                                                | 数据泄漏                 |                    |  |
+| information disclosure                                      | 信息泄漏                 |                    |  |
+| information exposure                                        | 信息泄漏                 |                    |  |
+| Open-source intelligence, OSINT                             | 开源情报                 |                    |  |
+| Bug Bounty                                                  | 漏洞赏金                 | 漏洞奖励           |  |
+| Security Response Center, SRC                               | 安全应急响应中心         |                    |  |
+| session prediction                                          | 会话预测                 |                    |  |
+| session hijacking                                           | 会话劫持                 |                    |  |
+| session fixation                                            | 会话固定                 |                    |  |
+| session riding                                              | 会话偷渡                 | CSRF               |  |
+| XML External Entity, XXE                                    | XML 外部实体（注入攻击） |                    |  |
 
+h2. NULL
 
 

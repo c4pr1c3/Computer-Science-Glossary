@@ -100,11 +100,11 @@ physical
 * Google: 全国科学技术名词审定委员会 
     * 《计算机科学技术名词》（1994） 2016年发布
     * http://www.termonline.cn/index.htm
-        * 总是查询超时
 * Google: network security glossary
     * [IETF RFC 4949: Internet Security Glossary, Version 2](https://tools.ietf.org/html/rfc4949)
     * [Glossary of Security Terms by SANS](https://www.sans.org/security-resources/glossary-of-terms/)
     * [Network Security Glossary by WatchGuard](https://www.watchguard.com/wgrd-resource-center/network-security-glossary)
+    * [NIST 的 Computer Security Glossary](https://csrc.nist.gov/glossary)
 * Google: 计算机英语常用词汇
     * [程序员必学电脑计算机专业英语词汇1700词](https://www.shanbay.com/wordbook/104791/)
 
